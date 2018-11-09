@@ -1,11 +1,3 @@
----
-layout: "foo"
-page_title: "Provider: Foo"
-sidebar_current: "docs-foo-index"
-description: |-
-  The Foo provider is used to interact with the many resources supported by FooCloud.
----
-
 # Foo Provider
 
 Description paragraph for provider Foo

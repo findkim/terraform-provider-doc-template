@@ -1,11 +1,3 @@
----
-layout: "foo"
-page_title: "Foo: foo_service"
-sidebar_current: "docs-foo-data-source-service"
-description: |-
-  The data source description.
----
-
 # foo_service
 
 Description paragraph for data source service

@@ -1,11 +1,3 @@
----
-layout: "foo"
-page_title: "Foo: foo_foobar"
-sidebar_current: "docs-foo-resource-foobar"
-description: |-
-  The resource description.
----
-
 # foo_foobar
 
 Description paragraph for resource foobar
